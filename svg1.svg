@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="800">
+      <ellipse cx="405" cy="30" rx="115" ry="25" fill="white" stroke="#94B3ea" stroke-width="7"  />
+      <rect x="390" y="35" width="30" height="15" fill="#FFC148" stroke="black" stroke-width="5"  />
+      <rect x="397" y="51" width="15" height="60" fill="#FFC148" stroke="black" stroke-width="5"  />
+      <circle cx="405" cy="160" r="50" fill="#FFC148" stroke="black" stroke-width="5"  />
+      <ellipse cx="403" cy="640" rx="200" ry="100" fill="#D70010" stroke="black" stroke-width="5"  />
+      <ellipse cx="405" cy="429" rx="300" ry="280" fill="#19ABFF" stroke="black" stroke-width="5"  />
+      <ellipse cx="405" cy="480" rx="270" ry="225" fill="white" stroke="black" stroke-width="4"  />
+      <ellipse cx="450" cy="500" rx="80" ry="200" fill="white" stroke="black" stroke-width="4"  />
+      <rect x="398" y="300" width="160" height="360" fill="white" stroke="white" stroke-width="5"  />
+      <ellipse cx="405" cy="672" rx="100" ry="29" fill="white" stroke="white" stroke-width="4"  />
+      <ellipse cx="405" cy="494" rx="220" ry="150" fill="#66000000" stroke="black" stroke-width="4"  />
+      <rect x="291" y="340" width="250" height="20" fill="white" stroke="white" stroke-width="5"  />
+      <rect x="191" y="350" width="140" height="130" fill="white" stroke="white" stroke-width="5"  />
+      <rect x="500" y="350" width="120" height="130" fill="white" stroke="white" stroke-width="5"  />
+      <ellipse cx="330" cy="248" rx="70" ry="80" fill="white" stroke="black" stroke-width="4"  />
+      <line x1="325" y1="290" x2="370" y2="230" stroke="#3d3c3d" stroke-width="20"  />
+      <circle cx="325" cy="290" r="10" fill="#3d3c3d" stroke="#3d3c3d" stroke-width="0"  />
+      <circle cx="370" cy="230" r="10" fill="#3d3c3d" stroke="#3d3c3d" stroke-width="0"  />
+      <ellipse cx="470" cy="248" rx="70" ry="80" fill="white" stroke="black" stroke-width="4"  />
+      <line x1="475" y1="290" x2="430" y2="230" stroke="#3d3c3d" stroke-width="20"  />
+      <circle cx="475" cy="290" r="10" fill="#3d3c3d" stroke="#3d3c3d" stroke-width="0"  />
+      <circle cx="430" cy="230" r="10" fill="#3d3c3d" stroke="#3d3c3d" stroke-width="0"  />
+      <circle cx="390" cy="330" r="35" fill="#D70010" stroke="black" stroke-width="4"  />
+      <circle cx="375" cy="330" r="10" fill="#fce3e4" stroke="#fce3e4" stroke-width="0"  />
+      <line x1="291" y1="350" x2="196" y2="274" stroke="black" stroke-width="5"  />
+      <line x1="283" y1="390" x2="149" y2="380" stroke="black" stroke-width="5"  />
+      <line x1="269" y1="464" x2="154" y2="504" stroke="black" stroke-width="5"  />
+      <line x1="526" y1="338" x2="647" y2="302" stroke="black" stroke-width="5"  />
+      <line x1="527" y1="403" x2="659" y2="409" stroke="black" stroke-width="5"  />
+      <line x1="520" y1="467" x2="639" y2="507" stroke="black" stroke-width="5"  />
+      <circle cx="405" cy="750" r="40" fill="#FFC148" stroke="black" stroke-width="5"  />
+      <line x1="370" y1="725" x2="435" y2="725" stroke="black" stroke-width="4"  />
+      <line x1="370" y1="733" x2="440" y2="733" stroke="black" stroke-width="4"  />
+      <line x1="405" y1="765" x2="405" y2="790" stroke="black" stroke-width="4"  />
+      <ellipse cx="405" cy="755" rx="10" ry="8" fill="#FFC148" stroke="black" stroke-width="4"  />
+</svg>

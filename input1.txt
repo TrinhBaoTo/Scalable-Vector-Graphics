@@ -1,0 +1,47 @@
+ellipse 405 30 115 25 white #94B3ea 7
+rect 390 35 30 15 #FFC148 black 5 
+rect 397 51 15 60 #FFC148 black 5 
+circle 405 160 50 #FFC148 black 5
+
+ellipse 403 640 200 100 #D70010 black 5
+
+ellipse 405 429 300 280 #19ABFF black 5
+ellipse 405 480 270 225 white black 4
+
+
+ellipse 450 500 80 200 white black 4
+rect 398 300 160 360 white white 5 
+ellipse 405 672 100 29 white white 4
+
+ellipse 405 494 220 150 #66000000 black 4
+rect 291 340 250 20 white white 5 
+rect 191 350 140 130 white white 5 
+rect 500 350 120 130 white white 5 
+
+ellipse 330 248 70 80 white black 4
+line 325 290 370 230 #3d3c3d 20 
+circle 325 290 10 #3d3c3d #3d3c3d 0
+circle 370 230 10 #3d3c3d #3d3c3d 0
+
+ellipse 470 248 70 80 white black 4
+line 475 290 430 230 #3d3c3d 20 
+circle 475 290 10 #3d3c3d #3d3c3d 0
+circle 430 230 10 #3d3c3d #3d3c3d 0
+
+circle 390 330 35 #D70010 black 4
+circle 375 330 10 #fce3e4 #fce3e4 0
+
+line 291 350 196 274 black 5
+line 283 390 149 380 black 5
+line 269 464 154 504 black 5
+line 526 338 647 302 black 5
+line 527 403 659 409 black 5
+line 520 467 639 507 black 5
+
+circle 405 750 40 #FFC148 black 5
+line 370 725 435 725 black 4
+line 370 733 440 733 black 4
+line 405 765 405 790 black 4
+ellipse 405 755 10 8 #FFC148 black 4
+
+polygon 
